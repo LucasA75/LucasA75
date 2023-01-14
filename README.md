@@ -1,5 +1,5 @@
 <h3 align="center">Full stack programer in java :)</h3>
-<h5>Now searching for my first work</h5>
+<h5 aling="center">Now searching for my first work</h5>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasa75" alt="lucasa75" /></a> </p>
 
