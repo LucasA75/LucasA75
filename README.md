@@ -1,7 +1,5 @@
 <h1 align="center">Full stack programer</h1>
-<h3 align="center">Always doing a hundred of things!!!</h3>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasa75" alt="lucasa75" /></a> </p>
+<h3 align="center">Always learning a hundred of things!!!</h3>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p href="https://www.linkedin.com/in/lucas-acevedo-castro">https://www.linkedin.com/in/lucas-acevedo-castro/</p>
