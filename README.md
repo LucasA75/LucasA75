@@ -1,7 +1,7 @@
-<h1 align="center">Full stack programer</h1>
+<h1 align="center">Full stack programer</h1><p>now working as Functional Analist....xd</p>
 <h3 align="center">Always learning a hundred of things!!!</h3>
 <hr>
-<p>now working as Functional Analist....xd</p>
+
 <h3 align="left">Connect with me:</h3>
 <p href="https://www.linkedin.com/in/lucas-acevedo-castro">https://www.linkedin.com/in/lucas-acevedo-castro/</p>
 <p align="left">
