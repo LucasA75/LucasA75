@@ -1,4 +1,4 @@
-<h1 align="center">Full stack programer <p>Now working as Functional Analist....xd</p></h1>
+<h1 align="center">Full stack programer</h1>
 <h3 align="center">Always learning a hundred of things!!!</h3>
 <hr>
 
