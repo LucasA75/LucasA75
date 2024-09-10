@@ -2,11 +2,6 @@
 <h3 align="center">Always learning a hundred of things!!!</h3>
 <hr>
 
-<h3 align="left">Connect with me:</h3>
-<p href="https://www.linkedin.com/in/lucas-acevedo-castro">https://www.linkedin.com/in/lucas-acevedo-castro/</p>
-<p align="left">
-</p>
-
 # 💻 Tech Stack:
 
 - I Worked with:
