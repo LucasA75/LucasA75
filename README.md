@@ -1,7 +1,7 @@
-<h1 align="center">Full stack programer</h1>
-<h3 align="center">Always learning a hundred of things!!!</h3>
-<h4 align="center">IT Technician</h4>
-<h4 align="center">Im from Chile</h4>
+<h1 align="center">Full-Stack Developer</h1>
+<h3 align="center">Passionate about building solutions & continuously learning</h3>
+<h4 align="center">IT Technician | Problem Solver | Tech Enthusiast</h4>
+<h4 align="center">Based in Chile 🇨🇱</h4>
 <hr>
 
 # 💻 Tech Stack:
