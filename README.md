@@ -1,5 +1,7 @@
 <h1 align="center">Full stack programer</h1>
 <h3 align="center">Always learning a hundred of things!!!</h3>
+<h4 align="center">IT Technician</h4>
+<h4 align="center">Im from Chile</h4>
 <hr>
 
 # 💻 Tech Stack:
