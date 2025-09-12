@@ -3,6 +3,12 @@
 <h4 align="center">IT Technician | Problem Solver | Tech Enthusiast</h4>
 <h4 align="center">Based in Chile 🇨🇱</h4>
 <hr>
+<h3 align="center">📫 Connect with me</h3>
+<p align="center">
+  <a href="[https://www.linkedin.com/in/lucas-acevedo-castro](https://www.linkedin.com/in/lucas-acevedo-castro/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 # 💻 Tech Stack:
 
